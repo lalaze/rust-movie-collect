@@ -1,0 +1,1 @@
+# rust-movie-collect
